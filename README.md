@@ -6,3 +6,10 @@ Me chamo Bruna Gabriela Kalchner, tenho 20 anos e sou natural do Rio Grande do S
 
 <h2 align="center"> Desenvolvedora Backend! Seja Bem-Vindo(a) ✨</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Oi%2C+Meu+nome+é+Bruna!;Sou+Desenvolvedora+Backend!;Bem-Vindo(a)+ao+meu+perfil!+✨" alt="Typing SVG" />
+</p>
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #fde047, #facc15, #fbbf24);" />
+
+###
+
