@@ -1,17 +1,23 @@
-## 👩🏻‍💻 Bruna Kalchner
-
-**`Desenvolvedora Backend`**
-
-Me chamo Bruna Gabriela Kalchner, tenho 20 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Sistemas de Informação na UFSM e atuando como bolsista de suporte no Setor de Tecnologia na mesma universidade. Estudo e trabalho buscando me desenvolver constantemente com foco em programação backend.
-
-
+#
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Oi%2C+Meu+nome+é+Bruna!;Sou+Desenvolvedora+Backend!;Bem-Vindo(a)+ao+meu+perfil!+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFAFA&center=true&vCenter=true&width=500&lines=Hello+World%2C+eu+sou+a+Bruna!;Sou+desenvolvedora+backend!;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
-<hr style="border: none; height: 2px; background: linear-gradient(to right, #fde047, #facc15, #fbbf24);" />
+<br>
 
-### 🚀 Tecnologias
+## 👩🏻‍💻 Sobre mim 
+
+<ul style="line-height: 1.4;">
+  <li>Desenvolvedora Backend em formação com foco em Java e Python</li>
+  <li>Atualmente trabalho como suporte de TI na Universidade Federal de Santa Maria</li>
+  <li>Tenho experiência empresarial com Cloud e IA</li>
+  <li>Cursando o 5° período de Sistemas de Informação</li>
+</ul>
+
+  <br>
+
+
+## 🚀 Tecnologias que uso e estudo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -30,7 +36,9 @@ Me chamo Bruna Gabriela Kalchner, tenho 20 anos e sou natural do Rio Grande do S
 
 </div>
 
-### 📬 Contato
+<br>
+
+## 📬 Contato
 
 <p align="left">
   <a href="mailto:brunakalchner@gmail.com">
