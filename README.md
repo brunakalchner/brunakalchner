@@ -7,12 +7,34 @@
 
 ## 👩🏻‍💻 Sobre mim 
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 <ul style="line-height: 1.4;">
   <li>Desenvolvedora Backend em formação com foco em Java e Python</li>
-  <li>Atualmente trabalho como suporte de TI na Universidade Federal de Santa Maria</li>
+  <li>Trabalho como suporte de TI na Universidade Federal de Santa Maria</li>
   <li>Tenho experiência empresarial com Cloud e IA</li>
   <li>Cursando o 5° período de Sistemas de Informação</li>
 </ul>
+
+</td>
+
+<td width="40%" valign="top" align="center">
+
+<!-- Espaço para GIF estilo terminal -->
+<img 
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ4cGg1NjU5YjBmMHg1Yzh5bGNyczNkendoNDBsaXNvNTdlaDNzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmJMzlXOiI0dq/giphy.gif"
+  width="320"
+  alt="Terminal backend animation"
+  style="border-radius:12px; border:1px solid #30363d;"
+/>
+
+</td>
+</tr>
+</table>
+
+
 
   <br>
 
