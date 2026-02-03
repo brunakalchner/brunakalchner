@@ -7,9 +7,9 @@
 
 # 👩🏻‍💻 Sobre mim 
 
-<table>
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="65%" valign="top">
 
 <ul style="line-height: 1.4;">
   <li>Desenvolvedora Backend em formação com foco em Java e Python</li>
@@ -20,19 +20,18 @@
 
 </td>
 
-<td width="40%" valign="top" align="center">
+<td width="35%" valign="top" align="right">
 
-<!-- Espaço para GIF estilo terminal -->
 <img 
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRzZGlzaGp2NmlnODlnc2RrbHJobDR2MTc5MTJ5cjdmd3d4MDNodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R5dspTNJBVL51hiSN7/giphy.gif"
-  width="320"
-  alt="Terminal backend animation"
-  style="border-radius:12px; border:1px solid #30363d;"
+  src="https://pin.it/1w9OQsXCe.gif"
+  width="220"
+  alt="terminal backend gif"
 />
 
 </td>
 </tr>
 </table>
+
 
 
 
