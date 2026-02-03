@@ -5,7 +5,7 @@
 
 <br>
 
-## 👩🏻‍💻 Sobre mim 
+# 👩🏻‍💻 Sobre mim 
 
 <table>
 <tr>
@@ -24,7 +24,7 @@
 
 <!-- Espaço para GIF estilo terminal -->
 <img 
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHQ4cGg1NjU5YjBmMHg1Yzh5bGNyczNkendoNDBsaXNvNTdlaDNzaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JmJMzlXOiI0dq/giphy.gif"
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHRzZGlzaGp2NmlnODlnc2RrbHJobDR2MTc5MTJ5cjdmd3d4MDNodiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R5dspTNJBVL51hiSN7/giphy.gif"
   width="320"
   alt="Terminal backend animation"
   style="border-radius:12px; border:1px solid #30363d;"
@@ -39,7 +39,7 @@
   <br>
 
 
-## 🚀 Tecnologias que uso e estudo
+# 🚀 Tecnologias que uso e estudo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -60,7 +60,7 @@
 
 <br>
 
-## 📬 Contato
+# 📬 Contato
 
 <p align="left">
   <a href="mailto:brunakalchner@gmail.com">
