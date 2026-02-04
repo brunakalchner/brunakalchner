@@ -8,16 +8,19 @@
 
 <img 
   src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/abc.gif"
-  width="180"
+  width="230"
   align="right"
+  style="margin-left: 15px;"
   alt="Ilustração de desenvolvedora programando"
 />
+
 
 <ul style="line-height: 1.4;">
   <li>Desenvolvedora Backend em formação com foco em Java e Python</li>
   <li>Trabalho como suporte de TI na Universidade Federal de Santa Maria</li>
   <li>Tenho experiência empresarial com Cloud e IA</li>
   <li>Cursando o 5° período de Sistemas de Informação</li>
+  <li>Sempre buscando me aperfeiçoar e resolver problemas reais </li>
 </ul>
 
 <br clear="right">
