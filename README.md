@@ -6,9 +6,12 @@
 
 # 👩🏻‍💻 Sobre mim 
 
-<table width="100%">
-<tr>
-<td width="65%" valign="top">
+<img 
+  src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/abc.gif"
+  width="180"
+  align="right"
+  alt="Ilustração de desenvolvedora programando"
+/>
 
 <ul style="line-height: 1.4;">
   <li>Desenvolvedora Backend em formação com foco em Java e Python</li>
@@ -17,28 +20,7 @@
   <li>Cursando o 5° período de Sistemas de Informação</li>
 </ul>
 
-<td width="40%" valign="top" align="center">
-
-<img 
-  src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/abc.gif"
-  width="200"
-  alt="Ilustração de desenvolvedora programando"
-/>
-
-</td>
-
-<img 
-  src="https://pin.it/1w9OQsXCe.gif"
-  width="220"
-  alt="terminal backend gif"
-/>
-
-</td>
-</tr>
-</table>
-
-
-
+<br clear="right">
 
   <br>
 
