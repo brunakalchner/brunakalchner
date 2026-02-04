@@ -21,7 +21,7 @@
 <td width="40%" valign="top" align="center">
 
 <img 
-  src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/download.gif"
+  src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/abc.gif"
   width="200"
   alt="Ilustração de desenvolvedora programando"
 />
