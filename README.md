@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFAFA&center=true&vCenter=true&width=500&lines=Hello+World%2C+eu+sou+a+Bruna!;Sou+desenvolvedora+backend!;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
 </p>
-
 <br>
 
 # 👩🏻‍💻 Sobre mim 
