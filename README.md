@@ -18,9 +18,15 @@
   <li>Cursando o 5° período de Sistemas de Informação</li>
 </ul>
 
-</td>
+<td width="40%" valign="top" align="center">
 
-<td width="35%" valign="top" align="right">
+<img 
+  src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/download.gif"
+  width="200"
+  alt="Ilustração de desenvolvedora programando"
+/>
+
+</td>
 
 <img 
   src="https://pin.it/1w9OQsXCe.gif"
