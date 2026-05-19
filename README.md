@@ -20,7 +20,7 @@
   <li>Trabalho no suporte de TI na Universidade Federal de Santa Maria</li>
   <li>Tenho experiência empresarial com Cloud e IA</li>
   <li>Cursando o 5° período de Sistemas de Informação</li>
-  <li>Sempre buscando me aperfeiçoar e resolver problemas reais </li>
+  <li>Sempre busco usar a tecnologia para resolver problemas reais ao meu redor </li>
 </ul>
 
 <br clear="right">
