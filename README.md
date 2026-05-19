@@ -37,6 +37,10 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   &nbsp;&nbsp;
   <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg?raw=true"
@@ -44,11 +48,6 @@
        alt="GitHub"
        style="background-color:#0d1117; padding:6px; border-radius:8px;" />
 </p>
-
-</div>
-
-<br>
-
 # Contato
 
 <p align="left">
