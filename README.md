@@ -33,40 +33,24 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   &nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   &nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   &nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI" />
   &nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   &nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   &nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-       height="40"
-       alt="AWS"
-       style="background-color:#ffffff; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
   &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
   &nbsp;&nbsp;
-
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg?raw=true"
-       height="40"
-       alt="GitHub"
-       style="background-color:#0d1117; padding:6px; border-radius:8px;" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" height="40" alt="GitHub" />
 </p>
-
 # Contato
 
 <p align="left">
