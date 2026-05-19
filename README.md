@@ -4,7 +4,7 @@
 </p>
 <br>
 
-# 👩🏻‍💻 Eu, Bruna
+# 👩🏻‍💻 Sobre mim
 
 <img 
   src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/abc.gif"
@@ -28,7 +28,7 @@
   <br>
 
 
-# 🚀 Tecnologias que tenho experiência
+# Tecnologias que tenho experiência
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -49,7 +49,7 @@
 
 <br>
 
-# 📬 Contato
+# Contato
 
 <p align="left">
   <a href="mailto:brunakalchner@gmail.com">
