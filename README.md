@@ -4,7 +4,7 @@
 </p>
 <br>
 
-# 👩🏻‍💻 Sobre mim 
+# 👩🏻‍💻 Eu, Bruna
 
 <img 
   src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/abc.gif"
@@ -16,8 +16,8 @@
 
 
 <ul style="line-height: 1.4;">
-  <li>Desenvolvedora Backend em formação com foco em Java e Python</li>
-  <li>Trabalho como suporte de TI na Universidade Federal de Santa Maria</li>
+  <li>Desenvolvedora Backend com foco em Java e Python</li>
+  <li>Trabalho no suporte de TI na Universidade Federal de Santa Maria</li>
   <li>Tenho experiência empresarial com Cloud e IA</li>
   <li>Cursando o 5° período de Sistemas de Informação</li>
   <li>Sempre buscando me aperfeiçoar e resolver problemas reais </li>
@@ -28,7 +28,7 @@
   <br>
 
 
-# 🚀 Tecnologias que uso e estudo
+# 🚀 Tecnologias que tenho experiência
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
