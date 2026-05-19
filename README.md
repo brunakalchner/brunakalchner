@@ -4,7 +4,7 @@
 </p>
 <br>
 
-# 👩🏻‍💻 Sobre mim
+# Sobre mim
 
 <img 
   src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/abc.gif"
