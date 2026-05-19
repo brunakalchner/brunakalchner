@@ -48,6 +48,7 @@
        alt="GitHub"
        style="background-color:#0d1117; padding:6px; border-radius:8px;" />
 </p>
+
 # Contato
 
 <p align="left">
