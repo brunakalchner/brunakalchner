@@ -30,11 +30,9 @@
 
 # Tecnologias
 
-# Tecnologias
-
 <p align="left">
   <img
-    src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/tech-stack-loop.gif"
+    src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/tech-stack-loop-lento.gif"
     width="640"
     alt="Tecnologias: Python, Java, JavaScript, FastAPI, Spring Boot, MySQL, Docker, AWS, Git e GitHub"
   />
