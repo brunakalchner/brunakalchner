@@ -1,14 +1,14 @@
-#
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Bruna%20Kalchner&fontSize=55&fontColor=FFFFFF&animation=none"
-    alt="Bruna Kalchner"
+    src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/header-dev.svg"
+    width="100%"
+    alt="Bruna Kalchner - Desenvolvedora Backend"
   />
 </p>
 
-<h3 align="center">Desenvolvedora Backend</h3>
-
 <br>
+
+<hr>
 
 # Sobre mim
 
@@ -47,8 +47,9 @@
 # Meu currículo
 
 <p align="left">
-  Estou em busca de novas oportunidades profissionais. Aqui está meu currículo completo com mais informações sobre minha formação,
-  experiências, projetos e conhecimentos técnicos
+  Estou em busca de novas oportunidades profissionais, projetos e desafios na área de desenvolvimento Backend.
+  Aqui está meu currículo completo, com mais informações sobre minha formação, experiências,
+  projetos e conhecimentos técnicos.
 </p>
 
 <p align="left">
