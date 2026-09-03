@@ -8,7 +8,7 @@
 
 <img 
   src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/boneco.png"
-  width="230"
+  width="190"
   align="right"
   style="margin-left: 15px;"
   alt="Ilustração de desenvolvedora programando"
