@@ -7,7 +7,7 @@
 # Sobre mim
 
 <img 
-  src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/avat.png"
+  src="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/boneco.png"
   width="230"
   align="right"
   style="margin-left: 15px;"
