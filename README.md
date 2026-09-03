@@ -22,11 +22,11 @@
 
 
 <ul style="line-height: 1.4;">
-  <li>Desenvolvedora Backend com foco em Java e Python</li>
-  <li>Cursando o 6° período de Sistemas de Informação na UFSM</li>
+  <li>Estou construindo minha carreira voltada para desenvolvimento Backend em Java e Python</li>
+  <li>Atualmente, curso o 6° período de Sistemas de Informação na UFSM</li>
   <li>Atuo no Suporte de TI da minha universidade</li>
-  <li>Tenho experiência com Cloud e IA</li>
-  <li>Sempre busco usar a tecnologia para resolver problemas reais ao meu redor </li>
+  <li>Tenho experiência com AWS Cloud e IA</li>
+  <li>Sempre busco analisar ao meu redor o que pode ser melhorado com tecnologia </li>
 </ul>
 
 <br clear="right">
