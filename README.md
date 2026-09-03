@@ -1,7 +1,13 @@
 #
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFAFA&center=true&vCenter=true&width=500&lines=Hello+World%2C+eu+sou+a+Bruna!;Sou+desenvolvedora+backend!;Bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Bruna%20Kalchner&fontSize=55&fontColor=FFFFFF&animation=none"
+    alt="Bruna Kalchner"
+  />
 </p>
+
+<h3 align="center">Desenvolvedora Backend</h3>
+
 <br>
 
 # Sobre mim
