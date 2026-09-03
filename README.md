@@ -52,7 +52,7 @@
 </p>
 
 <p align="left">
-  <a href="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/curriculo-bruna-kalchner.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/brunakalchner/brunakalchner/main/assets/curriculobruna.pdf" target="_blank">
     <img
       src="https://img.shields.io/badge/Visualizar%20Currículo-6C63FF?style=for-the-badge&logo=readme&logoColor=white"
       width="220"
@@ -83,7 +83,7 @@
     />
   </a>
 
-  <a href="https://www.instagram.com/SEU_USUARIO/" target="_blank">
+  <a href="https://www.instagram.com/bruna_techgirl/" target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       width="170"
