@@ -47,9 +47,7 @@
 # Meu currículo
 
 <p align="left">
-  Estou em busca de novas oportunidades profissionais, projetos e desafios na área de desenvolvimento Backend.
-  Aqui está meu currículo completo, com mais informações sobre minha formação, experiências,
-  projetos e conhecimentos técnicos.
+  Estou em busca de novas oportunidades. Aqui está meu currículo completo com mais informações sobre minha formação, experiências e conhecimentos técnicos
 </p>
 
 <p align="left">
@@ -64,7 +62,7 @@
 
 <br>
 
-# Vamos conversar?
+# Se quiser trocar uma ideia
 
 <p align="left">
 
